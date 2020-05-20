@@ -1,6 +1,6 @@
 To start and run TicTacToe:
 
-1. open 3035573628 file
+1. open the file
 2. In Terminal, type javac *.java  to compile the java program
 3. type java TicTacToe
 
